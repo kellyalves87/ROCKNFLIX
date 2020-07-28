@@ -1,4 +1,4 @@
-# ROCKNFLIX
+# IMERSÃO REACT ALURA
 
 Projeto de estudo feito na imersao React da Alura.
 
