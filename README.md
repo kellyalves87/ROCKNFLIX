@@ -6,10 +6,10 @@ Projeto de estudo feito na imersao React da Alura.
 
 Um local onde você vai encontrar o melhor do Rock n' Roll 🤟🏼
 
-# Page
+## Page
 
+https://rocknflix.vercel.app/
 
-
-# Autor
+## Autor
 
 Kelly Alves
