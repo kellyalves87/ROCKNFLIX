@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <Menu/>
-      <h1>Hello World</h1>
+      <h1>Bem vindos ao mundo mágico do Rock 'N Roll</h1>
     </div>
   );
 }
